@@ -1,0 +1,9 @@
+D:\Documentos\ESIEE\2019-2020\Modelisation Geometrique\Stela_Projet_IMA_CS\core_proj_esiee\Projet_IMA\bin\Debug\Projet_IMA.exe
+D:\Documentos\ESIEE\2019-2020\Modelisation Geometrique\Stela_Projet_IMA_CS\core_proj_esiee\Projet_IMA\bin\Debug\Projet_IMA.pdb
+D:\Documentos\ESIEE\2019-2020\Modelisation Geometrique\Stela_Projet_IMA_CS\core_proj_esiee\Projet_IMA\obj\x86\Debug\Projet_IMA.csprojAssemblyReference.cache
+D:\Documentos\ESIEE\2019-2020\Modelisation Geometrique\Stela_Projet_IMA_CS\core_proj_esiee\Projet_IMA\obj\x86\Debug\Projet_IMA.Form1.resources
+D:\Documentos\ESIEE\2019-2020\Modelisation Geometrique\Stela_Projet_IMA_CS\core_proj_esiee\Projet_IMA\obj\x86\Debug\Projet_IMA.Properties.Resources.resources
+D:\Documentos\ESIEE\2019-2020\Modelisation Geometrique\Stela_Projet_IMA_CS\core_proj_esiee\Projet_IMA\obj\x86\Debug\Projet_IMA.csproj.GenerateResource.cache
+D:\Documentos\ESIEE\2019-2020\Modelisation Geometrique\Stela_Projet_IMA_CS\core_proj_esiee\Projet_IMA\obj\x86\Debug\Projet_IMA.csproj.CoreCompileInputs.cache
+D:\Documentos\ESIEE\2019-2020\Modelisation Geometrique\Stela_Projet_IMA_CS\core_proj_esiee\Projet_IMA\obj\x86\Debug\Projet_IMA.exe
+D:\Documentos\ESIEE\2019-2020\Modelisation Geometrique\Stela_Projet_IMA_CS\core_proj_esiee\Projet_IMA\obj\x86\Debug\Projet_IMA.pdb
